@@ -64,7 +64,15 @@
   <!-- 替换为：Github Activity Graph (更稳定，且符合数据分析师气质) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEGIAO&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
-
+<div align="center">
+  <!-- 贪吃蛇动画 -->
+  <!-- 浅色模式显示 snake.svg，深色模式显示 snake-dark.svg -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NEGIAO/NEGIAO/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NEGIAO/NEGIAO/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NEGIAO/NEGIAO/output/snake.svg">
+  </picture>
+</div>
 ---
 
 ### 🧩 正在进行的项目 (Pinned)
