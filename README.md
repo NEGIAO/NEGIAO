@@ -72,7 +72,6 @@
   <!-- 替换为：Github Activity Graph (更稳定，且符合数据分析师气质) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEGIAO&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
----
 
 ### 🧩 正在进行的项目 (Pinned)
 
