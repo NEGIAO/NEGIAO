@@ -77,7 +77,7 @@
 ### 🧩 正在进行的项目 (Pinned)
 
 ---
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=n-HXgq2Mge1cHPJX6y2jM_UZP-Kfb5kUxv6fYpxnLJ8&cl=ffffff&w=a"></script>
+<a href="https://mapmyvisitors.com/web/1c0vf"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=n-HXgq2Mge1cHPJX6y2jM_UZP-Kfb5kUxv6fYpxnLJ8&cl=ffffff" /></a>
 <div align="center">
   <p>🗺️ <i>"The Science of Where"</i> — Exploring the world with code.</p>
 </div>
