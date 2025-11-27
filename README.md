@@ -1,55 +1,80 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="👋">, I'm NEGIAO
+  Hi there, I'm NEGIAO <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="👋">
 </h1>
-<h3 align="center">地理信息系统 (GIS) 爱好者与探索者</h3>
 
-我是一名来自中国的**GIS专业大三学生**，正处于学习地理空间数据科学和编程技能的关键时期。我热衷于利用技术探索和理解我们的世界，致力于将空间分析、地图可视化与现代编程技术相结合。
+<div align="center">
 
-***
+<!-- 打字机特效，提升动态感 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=GIS+%E7%88%B1%E5%A5%BD%E8%80%85+%7C+%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E6%8E%A2%E7%B4%A2%E8%80%85;Python+%26+WebGIS+%E5%BC%80%E5%8F%91%E8%80%85;The+Science+of+Where+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
 
-### 🛠️ 我的 GIS 与编程技能栈
+<br/>
 
-我目前专注于提升以下领域的专业能力：
+<!-- 社交徽章 -->
+<a href="mailto:1482918576@qq.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://negiao.github.io/">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Blog"/>
+</a>
+<a href="https://github.com/NEGIAO">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-| 领域 | 技能/工具 | 掌握程度 |
-| :--- | :--- | :--- |
-| **GIS 软件** | ArcGIS Pro / ArcMap, QGIS | 熟练应用 |
-| **编程语言** | Python, JavaScript (WebGIS) | 持续学习中 |
-| **空间数据处理**| GDAL/OGR, Fiona, Shapely, NumPy, Pandas | 基础应用 |
-| **WebGIS** | Leaflet, OpenLayers, Mapbox GL JS | 基础应用 |
-| **数据库** | PostgreSQL/PostGIS | 了解 |
+</div>
 
-***
+<br/>
 
-### 🚀 近期学习与目标
+### 🧐 关于我 (About Me)
 
-* **重点攻坚：** 深入学习 **Python** 在**遥感数据处理**和**地理空间数据分析**中的高级应用（例如利用 `xarray`, `rasterio`）。
-* **实践项目：** 计划完成一个基于 **WebGIS** 的**校园空间信息展示平台**，实践前后端交互。
-* **专业技能：** 准备考取相关的 GIS 或数据分析证书。
+👋 嗨！我是一名来自中国的 **GIS 专业大三学生**。
+🚀 我正致力于将**地理空间分析**、**地图可视化**与现代编程技术相结合，利用代码去探索和理解我们的世界。
 
-***
+- 🔭 我目前正在专注于：**Python 遥感数据处理** 与 **WebGIS 全栈开发**。
+- 🌱 我正在学习：**PostgreSQL/PostGIS** 以及 **React/Vue** 在 GIS 中的应用。
+- ⚡ 目标：构建一个基于 WebGIS 的校园空间信息展示平台。
 
-### ✨ 正在进行的项目 (Pinned Repositories)
+---
 
-以下是我在 GitHub 上的一些主要项目，欢迎探索和交流：
+### 🛠️ 技术栈 (Tech Stack)
 
-正在努力贡献代码中... 敬请期待！
+<div align="center">
 
-***
+| **Core GIS** | **Languages** | **Data Science** | **WebGIS & Frontend** |
+| :---: | :---: | :---: | :---: |
+| ![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-005E9C?style=flat-square&logo=esri&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) |
+| ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white) |
+| ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![GDAL](https://img.shields.io/badge/GDAL-3C3C3C?style=flat-square&logo=gdal&logoColor=white) | ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white) |
 
-### 📊 GitHub 数据统计
+</div>
 
-[![NEGIAO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEGIAO&show_icons=true&theme=vue&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-### 💻 常用语言分布
+### 📊 GitHub 数据概览 (Stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEGIAO&layout=compact&theme=vue&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NEGIAO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEGIAO&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
 
-***
+<br/>
 
-### 💬 保持联系
+<div align="center"> 
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:1482918576@qq.com)
-[![Blog](https://img.shields.io/badge/-Personal_Site-05122A?style=flat-square&logo=Google-Chrome&logoColor=white)](https://negiao.github.io/)
+<!-- 这是一个连击统计，显示你连续写代码的天数，很酷 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NEGIAO&theme=tokyonight&hide_border=true" alt="streak stats" />
 
-> 🗺️ **GIS-The science of where!**
+</div>
+
+---
+
+### 🧩 正在进行的项目 (Pinned)
+
+*(这里建议你在 GitHub 主页右上角点击 "Customize your pins" 手动置顶你最满意的仓库，它们会自动显示在这里)*
+
+---
+
+<div align="center">
+  <p>🗺️ <i>"The Science of Where"</i> — Exploring the world with code.</p>
+</div>
