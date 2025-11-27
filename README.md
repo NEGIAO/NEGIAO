@@ -60,16 +60,14 @@
 
 <br/>
 
-<div align="center"> 
-  <!-- 修复：更换为最新的 demolab 域名 -->
-  <img src="https://streak-stats.demolab.com?user=NEGIAO&theme=tokyonight&hide_border=true" alt="streak stats" />
+<div align="center">
+  <!-- 替换为：Github Activity Graph (更稳定，且符合数据分析师气质) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEGIAO&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
 
 ### 🧩 正在进行的项目 (Pinned)
-
-*(这里建议你在 GitHub 主页右上角点击 "Customize your pins" 手动置顶你最满意的仓库，它们会自动显示在这里)*
 
 ---
 
