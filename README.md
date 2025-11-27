@@ -1,4 +1,4 @@
-# 👋 欢迎来到 @NEGIAO 的 GitHub 空间！
+# 👋 欢迎来到 NEGIAO 的 GitHub 空间！
 
 ## 🌍 地理信息系统 (GIS) 爱好者与探索者
 
@@ -36,9 +36,9 @@
 
 ***
 
-### 📊 GitHub Pages 个人主页
+### 📊 GitHub 数据统计
 
-[![NEGIAO's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=NEGIAO&show_icons=true&theme=vue&hide_title=true)](https://github.com/anuraghazra/github-readme-stats](https://github.com/NEGIAO/NEGIAO.github.io))
+[![NEGIAO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEGIAO&show_icons=true&theme=vue&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 常用语言分布
 
@@ -49,4 +49,6 @@
 ### 💬 保持联系
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:1482918576@qq.com)
-[![Blog](https://negiao.github.io/)]
+[![Blog](https://img.shields.io/badge/-Personal_Site-05122A?style=flat-square&logo=Google-Chrome&logoColor=white)](https://negiao.github.io/)
+
+> 🗺️ **Code is Geography.**
