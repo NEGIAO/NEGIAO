@@ -51,4 +51,4 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:1482918576@qq.com)
 [![Blog](https://img.shields.io/badge/-Personal_Site-05122A?style=flat-square&logo=Google-Chrome&logoColor=white)](https://negiao.github.io/)
 
-> 🗺️ **Code is Geography.**
+> 🗺️ **GIS-The science of where!**
