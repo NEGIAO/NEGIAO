@@ -61,10 +61,8 @@
 <br/>
 
 <div align="center"> 
-
-<!-- 这是一个连击统计，显示你连续写代码的天数，很酷 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NEGIAO&theme=tokyonight&hide_border=true" alt="streak stats" />
-
+  <!-- 修复：更换为最新的 demolab 域名 -->
+  <img src="https://streak-stats.demolab.com?user=NEGIAO&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
 ---
