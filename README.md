@@ -1,6 +1,7 @@
-# 👋 欢迎来到 NEGIAO 的 GitHub 空间！
-
-## 🌍 地理信息系统 (GIS) 爱好者与探索者
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="👋">, I'm NEGIAO
+</h1>
+<h3 align="center">地理信息系统 (GIS) 爱好者与探索者</h3>
 
 我是一名来自中国的**GIS专业大三学生**，正处于学习地理空间数据科学和编程技能的关键时期。我热衷于利用技术探索和理解我们的世界，致力于将空间分析、地图可视化与现代编程技术相结合。
 
