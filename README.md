@@ -33,7 +33,7 @@
 
 - 🔭 我目前正在专注于：**Python 遥感数据处理** 与 **WebGIS 全栈开发**。
 - 🌱 我正在学习：**PostgreSQL/PostGIS** 以及 **React/Vue** 在 GIS 中的应用。
-- ⚡ 目标：构建一个基于 WebGIS 的校园空间信息展示平台。
+- ⚡ 目标：构建一个基于 WebGIS 的校园空间信息展示平台: [ 进 行 中 ](https://negiao-pages.share.connect.posit.cloud/WebGIS/index.html#/home)
 
 ---
 
@@ -54,8 +54,10 @@
 ### 📊 GitHub 数据概览 (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NEGIAO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEGIAO&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-one-v2.vercel.app/api?username=NEGIAO&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=NEGIAO&theme=tokyonight&hide_border=true" height="170" />
+  <br/>
+  <img src="https://github-readme-stats-one-v2.vercel.app/api/top-langs/?username=NEGIAO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
 </div>
 
 <br/>
