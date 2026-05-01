@@ -54,10 +54,10 @@
 ### 📊 GitHub 数据概览 (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats-one-v2.vercel.app/api?username=NEGIAO&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <!-- <img src="https://github-readme-stats-one-v2.vercel.app/api?username=NEGIAO&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> -->
   <img src="https://streak-stats.demolab.com?user=NEGIAO&theme=tokyonight&hide_border=true" height="170" />
   <br/>
-  <img src="https://github-readme-stats-one-v2.vercel.app/api/top-langs/?username=NEGIAO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
+  <!-- <img src="https://github-readme-stats-one-v2.vercel.app/api/top-langs/?username=NEGIAO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" /> -->
 </div>
 
 <br/>
