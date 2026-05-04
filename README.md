@@ -27,6 +27,8 @@
 <br/>
 
 ### 🧐 关于我 (About Me)
+![](https://komarev.com/ghpvc/?username=NEGIAO&label=Profile%20Visits&color=blue&style=for-the-badge)
+
 
 👋 嗨！我是一名来自中国的 **GIS 专业学生**。
 🚀 我正致力于将**地理空间分析**、**地图可视化**与现代编程技术相结合，利用代码去探索和理解我们的世界。
