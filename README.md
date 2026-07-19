@@ -35,7 +35,7 @@
 
 - 🔭 我目前正在专注于：**Python 遥感数据处理** 与 **WebGIS 全栈开发**。
 - 🌱 我正在学习：**PostgreSQL/PostGIS** 以及 **React/Vue** 在 GIS 中的应用。
-- ⚡ 目标：构建一个基于 WebGIS 的校园空间信息展示平台: [ 进 行 中 ](https://negiao-pages.share.connect.posit.cloud/WebGIS/index.html#/home)
+- ⚡ 目标：构建一个基于 WebGIS 的校园空间信息展示平台: [ 进 行 中 ](https://github.com/NEGIAO/WebGIS-Dev)
 
 ---
 
