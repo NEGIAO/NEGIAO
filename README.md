@@ -31,11 +31,12 @@
 
 
 👋 嗨！我是一名来自中国的 **GIS 专业学生**。
+
 🚀 我正致力于将**地理空间分析**、**地图可视化**与现代编程技术相结合，利用代码去探索和理解我们的世界。
 
-- 🔭 我目前正在专注于：**Python 遥感数据处理** 与 **WebGIS 全栈开发**。
-- 🌱 我正在学习：**PostgreSQL/PostGIS** 以及 **React/Vue** 在 GIS 中的应用。
-- ⚡ 目标：构建一个基于 WebGIS 的校园空间信息展示平台: [ 进 行 中 ](https://github.com/NEGIAO/WebGIS-Dev)
+- 🔭 我目前正在专注于：**开发自己的WebGIS**。
+- 🌱 我正在学习：**React/Vue** 和**各种技术** 在 GIS 中的应用。
+- ⚡ 目标：构建一个基于 WebGIS 地图展示平台: [ 进 行 中 ](https://github.com/NEGIAO/WebGIS-Dev)
 
 ---
 
@@ -77,8 +78,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEGIAO&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-### 🧩 正在进行的项目 (Pinned)
-
 ---
 <p align="center">
 <a href="https://mapmyvisitors.com/web/1c0wt" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=KLUC6S4AejwdnE4x5wz-Kho_fS8zQdeFuqe1BkZs8Ns&cl=ffffff" alt="Visit tracker" /></a>
@@ -86,3 +85,5 @@
 <div align="center">
   <p>🗺️ <i>"The Science of Where"</i> — Exploring the world with code.</p>
 </div>
+
+### 🧩 正在进行的项目 (Pinned)
