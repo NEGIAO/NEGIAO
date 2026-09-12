@@ -74,8 +74,7 @@
   </picture>
 </div>
 <div align="center">
-  <!-- 替换为：Github Activity Graph (更稳定，且符合数据分析师气质) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEGIAO&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://api.negiao.cn/api/activity-graph.svg?username=NEGIAO" alt="Activity Graph" />
 </div>
 
 ---
