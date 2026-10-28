@@ -74,7 +74,7 @@
   </picture>
 </div>
 <div align="center">
-  <img src="https://api.negiao.cn/api/activity-graph.svg?username=NEGIAO" alt="Activity Graph" />
+  <img src="https://vpn.negiao.cn/badge/activity-graph?username=NEGIAO&area=30&grid=55&color=%2340c463&bg=%230d1117&point=%23c9d1d9" alt="Activity Graph" />
 </div>
 
 ---
